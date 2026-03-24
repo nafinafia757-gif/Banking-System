@@ -78,4 +78,4 @@ This project helped in understanding Python basics and object-oriented concepts.
 It is a simple application for learning banking operations.
 
 Video Explanation:
-
+https://drive.google.com/file/d/1LX4PzTVAkYCGoE8DSeNrG4Be03cVXxeX/view?usp=sharing
