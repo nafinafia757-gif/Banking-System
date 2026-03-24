@@ -10,7 +10,7 @@ It includes features like deposit, withdrawal, and balance checking.
 
 Login :
 
-The user enters a username and password.
+The user enters a account number and password.
 The program checks if the details are correct.
 If correct, login is successful.
 If wrong, the program will stop.
